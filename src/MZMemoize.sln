@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.22512.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MZMemoize", "MZMemoize\MZMemoize.csproj", "{48292717-4F7B-4E90-8523-82DF981F7AA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MZMemoize.Samples", "MZMemoize.Samples\MZMemoize.Samples.csproj", "{FEFD17A0-BD4A-4DF2-B68C-98880DE905DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{48292717-4F7B-4E90-8523-82DF981F7AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48292717-4F7B-4E90-8523-82DF981F7AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48292717-4F7B-4E90-8523-82DF981F7AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFD17A0-BD4A-4DF2-B68C-98880DE905DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFD17A0-BD4A-4DF2-B68C-98880DE905DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFD17A0-BD4A-4DF2-B68C-98880DE905DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFD17A0-BD4A-4DF2-B68C-98880DE905DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
