@@ -56,6 +56,7 @@ I find that I don't need to excerise as much memory recall on what it takes to c
 ## Summary
 
 Memoize makes for easy method caching.
+
 FuncEx makes writing anonymous methods feel more natural.
 
 Download the NuGet package and you'll forver wonder how you coded without.
