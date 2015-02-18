@@ -1,0 +1,1 @@
+nuget pack MZMemoize\MZMemoize.csproj -Prop Configuration=Release

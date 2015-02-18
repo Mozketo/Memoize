@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/Mozketo/Memoize</licenseUrl>
+    <projectUrl>https://github.com/Mozketo/Memoize</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release of Memoize and FuncEx.</releaseNotes>
+    <copyright>Copyright 2015 Ben Clark-Robinson</copyright>
+    <tags>.net memoize func funcex</tags>
+  </metadata>
+</package>
