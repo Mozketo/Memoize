@@ -59,4 +59,4 @@ Memoize makes for easy method caching.
 
 FuncEx makes writing anonymous methods feel more natural.
 
-Download the NuGet package and you'll forver wonder how you coded without.
+Download the NuGet package and you'll forever wonder how you coded without.
